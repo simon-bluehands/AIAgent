@@ -10,7 +10,7 @@ const messageHistory: ModelMessage[] = [
     {
         role: 'system',
         content: ''
-    }
+    },
     {
         role: 'user',
         content: 'Erstelle einen Essensplan'
@@ -40,7 +40,7 @@ while (steps < 10) {
             }
         }
     );
-
+    
 }
 
 
