@@ -21,6 +21,7 @@
     "@ai-sdk/google": "^2.0.24",
     "@inquirer/prompts": "^7.9.0",
     "ai": "^5.0.81",
+    "chefkoch-api": "^1.2.2",
     "dotenv": "^17.2.3",
     "zod": "^4.1.12"
   }
